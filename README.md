@@ -203,14 +203,3 @@ Display table inside the window (not popup)
 Save logs
 
 Add export to PDF/Excel
-
-If you want, I can upgrade the project for you.
-
-🚀 If you want, I can also create:
-
-✔ A full PDF report
-✔ A PowerPoint presentation
-✔ A mini-project abstract
-✔ ER diagram + UML
-✔ A more modern version using JavaFX
-✔ A web version using Spring Boot + React
